@@ -1,0 +1,11 @@
+abstract ClassName {}
+
+1. no body
+2. it must be end with a semicolon;
+3. it must be in the abstract class;
+4. it must be overridden;
+5. it can't used final and Static;
+
+
+
+
